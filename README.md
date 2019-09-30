@@ -1,6 +1,12 @@
 # prediction-heart-disease-logistic-regression
 Dataset From Kaggle.com
 
+# Requirement 
+```
+ - Operating System x64
+ - Python 3.6.8
+```
+
 # How to use?
 
 Method request POST :
