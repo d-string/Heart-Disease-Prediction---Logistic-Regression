@@ -6,6 +6,7 @@ Dataset From Kaggle.com
 Method request POST :
 
 example body
+```
 {
 	"age":"57",
 	"sex":"0",
@@ -21,6 +22,6 @@ example body
 	"ca":"1",
 	"thal":"2"
 }
-
+```
 
 big thanks to @[srihaar](https://github.com/srihaar)
