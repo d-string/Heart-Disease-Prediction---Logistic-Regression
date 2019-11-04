@@ -42,6 +42,4 @@ example body
 
 
 
-big thanks to @[srihaar](https://github.com/srihaar)
-
 
