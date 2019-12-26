@@ -1,7 +1,7 @@
 # Client APP
 [Client APP](https://github.com/hafidzamr/heart-disease)
 
-# prediction-heart-disease-logistic-regression
+# Heart Disease Prediction - Logistic-Regression
 Dataset From [Kaggle](http://kaggle.com)
 
 # Requirement 
