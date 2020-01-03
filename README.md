@@ -11,7 +11,7 @@ Dataset From [Kaggle](http://kaggle.com)
 ```
 # How to Install
 
-Run pip install -r requirements.txt (Python 2) *btw i dont use python2 :stuck_out_tongue_winking_eye:
+Run pip install -r requirements.txt (Python 2) (but you still can use it if you have installed python3)
 
 Run pip3 install -r requirements.txt (Python 3)
 
