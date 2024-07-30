@@ -7,7 +7,7 @@ Flask==1.0.3
 Flask-Cors==3.0.8
 get==2019.4.13
 gunicorn==19.9.0
-idna==2.8
+idna==3.7
 itsdangerous==1.1.0
 Jinja2==2.10.1
 jsonify==0.5
